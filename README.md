@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author- Ananya Chaturvedi
+Author- Ananya Chaturvedi (Btech CSE in AITD)
